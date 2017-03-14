@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DaggerFirebaseMVP</string>
+    <string name="emailtxt">Email</string>
+    <string name="passwordtxt">Password</string>
+    <string name="logintxt">Login</string>
+    <string name="logouttxt">Log Out</string>
+</resources>

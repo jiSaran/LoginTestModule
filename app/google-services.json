@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "877355449387",
+    "firebase_url": "https://daggerfirebasemvp.firebaseio.com",
+    "project_id": "daggerfirebasemvp",
+    "storage_bucket": "daggerfirebasemvp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877355449387:android:51db1715f70b9d6e",
+        "android_client_info": {
+          "package_name": "com.saran.test.daggerfirebasemvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877355449387-7cjkfttcspgrqskfs9g9qq262n68d1fo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saran.test.daggerfirebasemvp",
+            "certificate_hash": "FBAE923D4A346D9019CA1FC9C90C66C3D9C2114D"
+          }
+        },
+        {
+          "client_id": "877355449387-uduhisaq5nakfdvhvbj9qadlenco4hop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL6xk1gyK4S0lwi2IDg3Vp3JdmsraQYJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877355449387-uduhisaq5nakfdvhvbj9qadlenco4hop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
